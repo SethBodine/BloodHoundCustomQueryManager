@@ -12,7 +12,9 @@
     "https://raw.githubusercontent.com/egypt/customqueries/master/customqueries.json",
     "https://raw.githubusercontent.com/trustedsec/CrackHound/main/customqueries.json",
     "https://raw.githubusercontent.com/aress31/bloodhound-utils/main/customqueries.json",
-    "https://raw.githubusercontent.com/ThePorgs/Exegol-images/main/sources/assets/bloodhound/customqueries.json"
+    "https://raw.githubusercontent.com/ThePorgs/Exegol-images/main/sources/assets/bloodhound/customqueries.json",
+    "https://raw.githubusercontent.com/y0k4i-1337/BloodHound-Queries/main/customqueries.json",
+    "https://gist.githubusercontent.com/seajaysec/a4d4a545047a51053d52cba567f78a9b/raw/6c29e2d2bcd0523e516014d9a1b67d0736b43841/customqueries.json"
   ]
 }
 
